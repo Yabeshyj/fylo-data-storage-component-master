@@ -128,7 +128,7 @@ span{
     visibility: hidden;
 }
 h1{
-    visibility: hidden;
+    color: hsl(229, 57%, 11%);
 }
 @media screen and (max-width:375px){
     body{
